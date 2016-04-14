@@ -1,6 +1,6 @@
 #!/bin/bash
 
-KITHOME="/home/seed/GameGBA/devkitadv"
+KITHOME="/home/seed/devkitadv"
 
 # ensure that at least one input file was passed
 if [ $# -lt 1 ] 
